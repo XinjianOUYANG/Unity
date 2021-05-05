@@ -1,0 +1,40 @@
+[api-updater (non-obsolete-error-filter)] 4/17/2021 11:20:00 PM : Starting /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 116.386ms
+moved types parse time: 51ms
+candidates parse time : 1ms
+C# parse time         : 261ms
+candidates check time : 34ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/17/2021 11:29:06 PM : Starting /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125.192ms
+moved types parse time: 51ms
+candidates parse time : 0ms
+C# parse time         : 240ms
+candidates check time : 31ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 4/17/2021 11:45:12 PM : Starting /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 103.54ms
+moved types parse time: 53ms
+candidates parse time : 1ms
+C# parse time         : 243ms
+candidates check time : 29ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 4/18/2021 1:10:54 PM : Starting /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 279.459ms
+moved types parse time: 67ms
+candidates parse time : 2ms
+C# parse time         : 309ms
+candidates check time : 38ms
+console write time    : 1ms
+

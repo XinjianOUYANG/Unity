@@ -1,0 +1,86 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/ouyang/Desktop/CS Learning/SG8/Unity/Roll the ball
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54217
+Successfully changed project path to: /Users/ouyang/Desktop/CS Learning/SG8/Unity/Roll the ball
+/Users/ouyang/Desktop/CS Learning/SG8/Unity/Roll the ball
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 25.14 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.4f1 (0abb6314276a)
+[Subsystems] Discovering subsystems at path /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/ouyang/Desktop/CS Learning/SG8/Unity/Roll the ball/Assets
+GfxDevice: creating device client; threaded=0
+2021-04-23 20:38:59.875 Unity[93390:7694242] Color LCD preferred device: Intel(R) UHD Graphics 630 (low power)
+2021-04-23 20:38:59.875 Unity[93390:7694242] Metal devices available: 2
+2021-04-23 20:38:59.875 Unity[93390:7694242] 0: AMD Radeon Pro 5300M (high power)
+2021-04-23 20:38:59.875 Unity[93390:7694242] 1: Intel(R) UHD Graphics 630 (low power)
+2021-04-23 20:38:59.875 Unity[93390:7694242] Using device AMD Radeon Pro 5300M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5300M
+Initialize mono
+Mono path[0] = '/Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56390
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Users/ouyang/Documents/Unity/2020.3.4f1/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.003175 seconds.
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 30.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.290 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001379 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.18 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.013 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Users/ouyang/Documents/Unity/2020.3.4f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.21 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1120 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.0 MB.
+System memory in use after: 114.1 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1563.
+Total: 2.278003 ms (FindLiveObjects: 0.190714 ms CreateObjectMapping: 0.055204 ms MarkObjects: 1.916147 ms  DeleteObjects: 0.113597 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/newessai.cs
+  artifactKey: Guid(990fc40ec9a7e4bc39013ba68e07df9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/newessai.cs using Guid(990fc40ec9a7e4bc39013ba68e07df9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c3b55de8be417bfe9eab259fa2c59de') in 0.339817 seconds
+  Import took 0.342605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Scripts/PlayerController.cs
+  artifactKey: Guid(b077b78f954604263b5fdb35e9bbe7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/PlayerController.cs using Guid(b077b78f954604263b5fdb35e9bbe7c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1ab5a0a2bdb640258725b28e931040') in 0.004811 seconds
+  Import took 0.006735 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
