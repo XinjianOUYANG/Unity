@@ -14,10 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   SimpleSelectedItems:
     m_Keys:
-    - Assets/Scenes/SampleScene.unity
     - 
-    m_Values: 0101
-  RevisionSummary: 
+    m_Values: 01
+  RevisionSummary: update
   ChangesSearchValue: 
   SelectedHistoryRevision: 
   HistoryPageNumber: 0
